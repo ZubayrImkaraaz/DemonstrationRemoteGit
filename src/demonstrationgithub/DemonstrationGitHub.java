@@ -16,6 +16,7 @@ public class DemonstrationGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         // demonstrating pull
+        // fetch and merge demo
     }
     
 }
